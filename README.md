@@ -34,7 +34,7 @@
 | [**Astro Portfolio**](https://github.com/Simonstorms/astro-portfolio) | Fast personal portfolio built with Astro | Astro, TypeScript |
 | [**Songtiers**](https://github.com/Simonstorms/songtiers) | Tier-list builder for ranking songs | TypeScript, Next.js, Vercel |
 
-[![Simon's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=Simonstorms&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Simon's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=Simonstorms&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Happy to connect :)
 
