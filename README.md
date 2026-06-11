@@ -1,6 +1,5 @@
-# 👋 Hey, I'm Simon :)
+#  Hey, I'm Simon :)
 
-- 🧠 Currently exploring **applied ML, LLMs, and AI agents**
 - 🎓 Software Engineer studying at **[CODE University](https://code.berlin)** in Berlin
 - ✍️ Writing at **[gneuss.online](https://gneuss.online/)**
 
@@ -35,9 +34,3 @@
 | [**Songtiers**](https://github.com/Simonstorms/songtiers) | Tier-list builder for ranking songs | TypeScript, Next.js, Vercel |
 
 [![Simon's GitHub stats](https://githubstatssimon.vercel.app/api?username=Simonstorms&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Happy to connect :)
-
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=astro&logoColor=white)](https://gneuss.online)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Simon_gnss)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@simongneuss.com)
