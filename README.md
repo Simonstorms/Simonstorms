@@ -32,5 +32,3 @@
 | [**WISO Steuer Import**](https://github.com/Simonstorms/wiso-steuer-import) | Chrome extension that imports CSV data into WISO Steuer tables | JavaScript, Chrome Extension API |
 | [**Astro Portfolio**](https://github.com/Simonstorms/astro-portfolio) | Fast personal portfolio built with Astro | Astro, TypeScript |
 | [**Songtiers**](https://github.com/Simonstorms/songtiers) | Tier-list builder for ranking songs | TypeScript, Next.js, Vercel |
-
-[![Simon's GitHub stats](https://githubstatssimon.vercel.app/api?username=Simonstorms&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
