@@ -28,7 +28,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**lore-glass**](https://github.com/Simonstorms/lore-glass) | Apple's Liquid Glass for React, installable with the shadcn CLI ([loreglasses.com](https://loreglasses.com)) | TypeScript, React, Tailwind |
 | [**Slidelot**](https://github.com/Simonstorms/slidelot) | Open-source TikTok carousel generator with auto-learning feedback loops | TypeScript, Next.js, AI |
 | [**WISO Steuer Import**](https://github.com/Simonstorms/wiso-steuer-import) | Chrome extension that imports CSV data into WISO Steuer tables | JavaScript, Chrome Extension API |
 | [**Astro Portfolio**](https://github.com/Simonstorms/astro-portfolio) | Fast personal portfolio built with Astro | Astro, TypeScript |
-| [**Songtiers**](https://github.com/Simonstorms/songtiers) | Tier-list builder for ranking songs | TypeScript, Next.js, Vercel |
